@@ -1,0 +1,6 @@
+deploy:
+  type: git
+  repository: https://github.com/Catherinelhl/Catherinelhl.github.io.git
+  branch: master
+  theme: jekyll-theme-merlot
+
